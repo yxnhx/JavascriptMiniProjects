@@ -1,6 +1,6 @@
 # Javascript mini project ideas!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Some fun project ideas to do when you're bored using VanillaJS and React.
 
 ## Recipe Finder
 

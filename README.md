@@ -1,39 +1,70 @@
-# javascript-mini-projects
-Javascript and React project ideas with a rating on how much I enjoyed each mini project. 
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Recipe Finder 
-A simple and easy recipe finder built with react to discover search for delicious recipes! 
+## Available Scripts
 
-https://recipe-site-heroku.herokuapp.com/ 
+In the project directory, you can run:
 
-![Screen Shot 2021-09-04 at 9 05 27 pm](https://user-images.githubusercontent.com/65147934/132092298-c1239307-563c-43c0-8a90-f23630f12601.png)
+### `yarn start`
 
-Rating 8/10
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-# React To-do App
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-To do list maker and task manager that lets you manage your to do list online !
+### `yarn test`
 
-https://todo-list-react-appp.herokuapp.com/
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-![Screen Shot 2021-09-04 at 9 13 31 pm](https://user-images.githubusercontent.com/65147934/132092460-d59443db-651a-47a9-bddf-e5778bda1d09.png)
+### `yarn build`
 
-Rate 6.5/10
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-# Tic-tactoe Game
-A game in which two players alternately put Xs and Os in compartments of a figure formed by two vertical lines crossing two horizontal lines and each tries to get a row of three Xs or three Os before the opponent does.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-![Screen Shot 2021-09-04 at 9 07 51 pm](https://user-images.githubusercontent.com/65147934/132092339-08ab9f5f-0aef-4ad0-8faf-e54ab511b448.png)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Rating 6/10
+### `yarn eject`
 
-# 2048 Game 
-2048 is a popular single-player game for Web and mobile. It's a type of “sliding block puzzle” — think Threes!, on which 2048 is based, or the old-timey game klotski — that's played on an almost Sudoku-like grid. The object of the game is to combine the numbers displayed on the tiles until you reach 2048
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-![Screen Shot 2021-09-04 at 7 59 24 pm](https://user-images.githubusercontent.com/65147934/132090542-3b014eb5-ffbc-4053-9fec-e7b69e02a31c.png)
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Rating 6/10
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Learn More
 
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `yarn build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

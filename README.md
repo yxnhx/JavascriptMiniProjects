@@ -22,7 +22,7 @@ https://todo-list-react-appp.herokuapp.com/
 
 ### 2048
 
-Re-creating the iconic 2048 game (single-player sliding tile puzzle video game).
+Re-creating the iconic 2048 game (single-player sliding tile puzzle game).
 
 ### Tic Tac Toe
 
